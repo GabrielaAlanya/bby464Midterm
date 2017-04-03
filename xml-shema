@@ -1,0 +1,47 @@
+<xml version="1.0" encoding="UTF-8">
+    <xs:shema xmlns:xs="http://www.w3.org/2001/XMLShema">
+    <xs:element name="Database">
+    <xs:element name="Books">  
+  <xs:complexType>  
+    <xs:sequence>
+     <xs:element name="Title" type="xs:string"/>
+                 <xs:element name="OriginalTitle" type="xs:string"/>
+                 <xs:element name="Genre" type="xs:string"/>
+                 <xs:element name="Published" type="xs:date"/>
+                 <xs:element name="Language" type="xs:string"/>
+                 <xs:element name="OriginalLanguage" type="xs:string"/>
+                 <xs:element name="Translation" type="xs:string"/>
+                 <xs:element name="Edition" type="xs:string"/>
+                 <xs:element name="PageNumber" type="xs:string"/>
+                 <xs:element name="ISBN" type="xs:string"/>
+                 <xs:element name="Type" type="xs:string"/>
+                 <xs:element name="Author" type="Author"/>
+                 <xs:element name="Publisher" type="Publisher"/>      
+    </xs:sequence>
+  </xs:complexType>
+    </xs:element>
+     <xs:element name="Author">  
+  <xs:complexType>  
+    <xs:sequence>
+      <xs:element name="Name" type="xs:string"/>
+      <xs:element name="Surname" type="xs:string"/>
+      <xs:element name="DataOfBirth" type="xs:date"/>
+      <xs:element name="PlaceOfBirth" type="xs:string"/>
+      <xs:element name="Nationality" type="xs:string"/>
+      <xs:element name="Ocupation" type="xs:string"/>    
+    </xs:sequence>
+  </xs:complexType>
+</xs:element>
+     <xs:element name="Publisher">
+  <xs:complexType>  
+    <xs:sequence>
+      <xs:element name="Name" type="xs:string"/>
+    <xs:element name="Address" type="xs:string"/>
+    <xs:element name="City" type="xs:string"/>
+    <xs:element name="Country" type="xs:string"/>    
+    </xs:sequence>
+  </xs:complexType>
+</xs:element>
+        </xs:element>
+        </xs:shema>
+</xml>
