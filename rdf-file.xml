@@ -1,0 +1,123 @@
+<xml version="1.0" encoding="UTF-8">
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://dublincore.org/documents/2012/06/14/dcmi-terms/">
+ 
+<rdf:Description rdf:about="The Divine Comedy Vol.I: Inferno">
+  <dc:title>The Divine Comedy Vol.I: Inferno</dc:title>
+  <dc:creator>Dante Alighiri</dc:creator>
+  <dc:date>1984</dc:date>
+  <dc:publisher>Penguin Books</dc:publisher>
+  <dc:subject>Literature</dc:subject>
+  <dc:contributor>Mark Musa</dc:contributor>
+  <dc:type>Epic poetry</dc:type>
+  <dc:language>English</dc:language>
+  <dc:indentifier>0-14-044441-6</dc:indentifier>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="The year of the death of Ricardo Reis">
+  <dc:title>The year of the death of Ricardo Reis</dc:title>
+  <dc:creator>Jose Saramago</dc:creator>
+  <dc:date>1999</dc:date>
+  <dc:publisher>Harvill</dc:publisher>
+  <dc:subject>Life</dc:subject>
+  <dc:contributor>Giovanni Pontiero</dc:contributor>
+  <dc:type>Novel</dc:type>
+  <dc:language>English</dc:language>
+  <dc:indentifier>1-86046-502-1</dc:indentifier>
+    </rdf:Description>
+    
+     <rdf:Description rdf:about="Girl with a pearl earing">
+  <dc:title>Girl with a pearl earing</dc:title>
+  <dc:creator>Tracy Chevaller</dc:creator>
+  <dc:date>2006</dc:date>
+  <dc:publisher>Harper</dc:publisher>
+  <dc:subject>Love</dc:subject>
+  <dc:type>Novel</dc:type>
+  <dc:language>English</dc:language>
+  <dc:indentifier>978-0-00-72316-1</dc:indentifier>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="Mülksüzler">
+  <dc:title>Mülksüzler</dc:title>
+  <dc:creator>Ursula K. Le Guin</dc:creator>
+  <dc:date>2006</dc:date>
+  <dc:publisher>Metis Yayınları</dc:publisher>
+  <dc:subject>Fiction</dc:subject>
+  <dc:contributor>Levent Mollamustafaoğlu</dc:contributor>
+  <dc:type>Roman</dc:type>
+  <dc:language>Turkish</dc:language>
+  <dc:indentifier>975-342-528-7</dc:indentifier>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="Sürgen Gezegeni">
+  <dc:title>Sürgen Gezegeni</dc:title>
+  <dc:creator>Ursula K. Le Guin</dc:creator>
+  <dc:contributor>Çağla Ünal</dc:contributor>
+  <dc:date>1999</dc:date>
+  <dc:publisher>İthaki Yayınları</dc:publisher>
+  <dc:subject>Fiction</dc:subject>
+  <dc:type>Roman</dc:type>
+  <dc:language>Turkish</dc:language>
+  <dc:indentifier>975-6902-29-9</dc:indentifier>
+    </rdf:Description>
+    
+   <rdf:Description rdf:about="Amat">
+  <dc:title>Amat</dc:title>
+  <dc:creator>İhsan Oktay Anar</dc:creator>
+  <dc:date>2013</dc:date>
+  <dc:publisher>İletişim Yayınları</dc:publisher>
+  <dc:subject>Fantastic</dc:subject>
+  <dc:type>Roman</dc:type>
+  <dc:language>Turkish</dc:language>
+  <dc:indentifier>978-975-05-0372-6</dc:indentifier>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="Yedinci gün">
+  <dc:title>Yedinci gün</dc:title>
+  <dc:creator>İhsan Oktay Anar</dc:creator>
+  <dc:date>2012</dc:date>
+  <dc:publisher>İletişim Yayınları</dc:publisher>
+  <dc:subject>Fantastic</dc:subject>
+  <dc:type>Roman</dc:type>
+  <dc:language>Turkish</dc:language>
+  <dc:indentifier>978-975-05-1086-1</dc:indentifier>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="Dünyaya orman denir">
+  <dc:title>Dünyaya orman denir</dc:title>
+  <dc:creator>Ursula K. Le Guin</dc:creator>
+  <dc:date>1996</dc:date>
+  <dc:publisher>Metis Yayınları</dc:publisher>
+  <dc:subject>Fantastic</dc:subject>
+  <dc:contributor>Özlem Dinçkal</dc:contributor>
+  <dc:type>Novel</dc:type>
+  <dc:language>Turkish</dc:language>
+  <dc:indentifier>975-342-120-6</dc:indentifier>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="Bir kayıp denizci">
+  <dc:title>Bir kayıp denizci</dc:title>
+  <dc:creator>Gabriel Garcia Marquez</dc:creator>
+  <dc:date>2011</dc:date>
+  <dc:publisher>İthaki Yayınları</dc:publisher>
+  <dc:subject>Fantastic</dc:subject>
+  <dc:contributor>İsmail Yerguz</dc:contributor>
+  <dc:type>Novel</dc:type>
+  <dc:language>Turkish</dc:language>
+  <dc:indentifier>978-975-510-180-4</dc:indentifier>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="Palomar">
+  <dc:title>Palomar</dc:title>
+  <dc:creator>Italo Calvino</dc:creator>
+  <dc:date>1991</dc:date>
+  <dc:publisher>Harper </dc:publisher>
+  <dc:subject>Fiction</dc:subject>
+  <dc:contributor>Rekin Teksoy</dc:contributor>
+  <dc:type>Novel</dc:type>
+  <dc:language>Turkish</dc:language>
+  <dc:indentifier>975-510-260-4</dc:indentifier>
+    </rdf:Description>
+    </rdf:RDF>
+</xml>
